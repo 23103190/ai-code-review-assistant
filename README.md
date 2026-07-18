@@ -2,6 +2,12 @@
 
 An AI-powered web application that helps developers improve their code by providing intelligent code reviews, static analysis, and complexity metrics. The application allows users to upload or paste source code, receive AI-generated suggestions, and keep a history of previous reviews in a clean and user-friendly interface.
 
+## 🌐 Live Demo
+
+**Frontend:** https://ai-code-review-assistant-roan-pi.vercel.app
+
+**Backend API:** https://ai-code-review-backend-97xo.onrender.com
+
 ---
 
 ## 📖 Project Overview
