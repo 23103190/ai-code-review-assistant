@@ -19,7 +19,7 @@ const user = JSON.parse(localStorage.getItem("user"));
     setReview("");
     setIssues([]);
 
-    const response = await fetch("http://localhost:5000/review", {
+    const response = await fetch("https://ai-code-review-backend-97xo.onrender.com/review", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -96,7 +96,6 @@ useEffect(() => {
   <div>
     <h1 style={{marginBottom:"5px"}}> AI Code Review Assistant</h1>
 
-    
   </div>
 
   <div style={{display:"flex",gap:"15px"}}>

@@ -9,7 +9,7 @@ function ForgotPassword() {
   async function handleForgotPassword() {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/auth/forgot-password",
+        "https://ai-code-review-backend-97xo.onrender.com/api/auth/forgot-password",
         {
           method: "POST",
           headers: {

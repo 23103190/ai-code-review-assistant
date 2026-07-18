@@ -12,7 +12,7 @@ function Signup() {
     console.log("Signup button clicked");
     try {
       const response = await fetch(
-        "http://localhost:5000/api/auth/signup",
+        "https://ai-code-review-backend-97xo.onrender.com/api/auth/signup",
         {
           method: "POST",
           headers: {

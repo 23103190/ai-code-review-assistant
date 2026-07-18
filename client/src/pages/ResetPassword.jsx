@@ -11,7 +11,7 @@ const [token, setToken] = useState(
   async function handleResetPassword() {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/auth/reset-password",
+        "https://ai-code-review-backend-97xo.onrender.com/api/auth/reset-password",
         {
           method: "POST",
           headers: {
