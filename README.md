@@ -221,14 +221,26 @@ Used to store:
 
 # 📸 Screenshots
 
-Add screenshots of the following pages:
+## Login Page
+![Login Page](screenshots/login.png)
 
-- Login Page
-- Signup Page
-- Dashboard
-- AI Review
-- Complexity Analysis
-- Profile Page
+## Signup Page
+![Signup Page](screenshots/signup.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard1.png)
+
+## AI Code Review
+![AI Review](screenshots/ai-analysis.png)
+
+## Complexity Analysis
+![Complexity Analysis](screenshots/dashboard2.png)
+
+## Profile Page
+![Profile Page](screenshots/profile.png)
+
+## search-and-review
+![Review history](screenshots/search-and-review-history.png)
 
 ---
 
